@@ -2,8 +2,7 @@ import multer from "multer";
 import path from 'path';
 import fs from 'fs'
 
-// Ensure the tmp directory exists
-const tmpDir = './tmp';
+const tmpDir = '/tmp'; // Replace 'your-directory-name' with a relevant name
 if (!fs.existsSync(tmpDir)){
     fs.mkdirSync(tmpDir);
 }
