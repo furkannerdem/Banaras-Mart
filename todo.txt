@@ -1,2 +1,0 @@
-progressive web app
-color adder remove in product details page
